@@ -9,5 +9,5 @@ def toadstool
 end
 
 def link 
-  puts "It's dangerous to go alone! Take this."
+  puts "It's Dangerous To Go Alone! Take This."
 end 
